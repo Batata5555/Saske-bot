@@ -10,22 +10,22 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['212605784394', 'bobiza', true],
+  ['972568486065', 'ŜÀŚØĶÊ', true],
 
-  ['212605784394','bobiza', true],
-  ['212605784394'],
-  ['212605784394']
+  ['972568088330','- 𝑰𝑻𝑺 »S𝐀𝐒𝐊𝐄-𝐁𝐎𝐓»', true],
+  [''],
+  ['']
 ];
 
 global.suittag = ['212605784394'];
 global.prems = ['212605784394'];
 
-global.packname = 'bobiza bot';
-global.author = 'bobiza';
-global.wm = 'bobiza';
-global.titulowm = 'bobiza';
-global.titulowm2 = `bobiza`
-global.igfg = 'bobiza';
+global.packname = '- 𝑰𝑻𝑺 »S𝐀𝐒𝐊𝐄-𝐁𝐎𝐓»';
+global.author = 'ŜÀŚØĶÊ';
+global.wm = 'ŜÀŚØĶÊ';
+global.titulowm = 'ŜÀŚØĶÊ';
+global.titulowm2 = `ŜÀŚØĶÊ`
+global.igfg = 'ŜÀŚØĶÊ';
 global.wait = '*|🏃| loading...*\n*نحاول تلبية طلبكم لا تستعجلوا* ♥\ninstagram.com/noureddine_ouafy';
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
@@ -45,15 +45,15 @@ global.mes = d.toLocaleDateString('en', {month: 'long'});
 global.año = d.toLocaleDateString('en', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nBOBIZA`;
+global.wm2 = `${dia} ${fecha}\nŜÀŚØĶÊ`;
 global.gt = 'BOBIZA';
-global.mysticbot = 'The BOBIZA';
+global.mysticbot = 'The ŜÀŚØĶÊ';
 global.md = 'https://instagram.com/noureddine_ouafy';
 global.mysticbot = 'https://instagram.com/noureddine_ouafy';
 global.waitt = '*[ ⏳ ] LOADING...*';
 global.waittt = '*[ ⏳ ] LOADING...*';
 global.waitttt = '*[ ⏳ ] LOADING...*';
-global.nomorown = '212605784394';
+global.nomorown = '972568486065';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
