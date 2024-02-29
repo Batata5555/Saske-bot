@@ -26,7 +26,7 @@ global.wm = 'ŜÀŚØĶÊ';
 global.titulowm = 'ŜÀŚØĶÊ';
 global.titulowm2 = `ŜÀŚØĶÊ`
 global.igfg = 'ŜÀŚØĶÊ';
-global.wait = '*|🏃| loading...*\n*نحاول تلبية طلبكم لا تستعجلوا* ♥\ninstagram.com/noureddine_ouafy';
+global.wait = '*|🏃| loading...*\n*نحاول تلبية طلبكم لا تستعجلوا* ♥\https://www.instagram.com/wtshyh365?igsh=dWV6MG9hZTBkdHY2';
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
 global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png');
@@ -46,9 +46,9 @@ global.año = d.toLocaleDateString('en', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nŜÀŚØĶÊ`;
-global.gt = 'BOBIZA';
+global.gt = 'saske-bot';
 global.mysticbot = 'The ŜÀŚØĶÊ';
-global.md = 'https://instagram.com/noureddine_ouafy';
+global.md = 'https://www.instagram.com/wtshyh365?igsh=dWV6MG9hZTBkdHY2';
 global.mysticbot = 'https://instagram.com/noureddine_ouafy';
 global.waitt = '*[ ⏳ ] LOADING...*';
 global.waittt = '*[ ⏳ ] LOADING...*';
